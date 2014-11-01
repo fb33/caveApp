@@ -1,0 +1,186 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ex",
+				"exports(ñ)	foo.js"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"grunt",
+				"Grunt: Kill Running Tasks"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 267.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/A105057/data/testApp/package.json",
+		"/C/Users/A105057/AppData/Roaming/Sublime Text 2/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/C/data/Mobile/v2.4.0/trunk/dev/FwMC_Security_Client/test/js/FwMC-Security.internal-test.js",
+		"/C/data/Mobile/v2.4.0/trunk/dev/FwMC_Security_Client/test/FwMC-Security.html",
+		"/C/data/Mobile/v2.4.0/trunk/dev/FwMC_Security_Client/test/scripts/FwMC-Security-test.js",
+		"/C/data/Mobile/v2.4.0/trunk/dev/FwMC_Security_Client/src/js/FwMC-Security-Context.js",
+		"/C/data/Mobile/v2.4.0/trunk/dev/FwMC_Security_Client/target/FwMC-Security.browserify.public.js",
+		"/C/data/Mobile/v2.4.0/trunk/dev/FwMC_Security_Client/target/FwMC-Security.browserify.private.js",
+		"/C/data/Mobile/v2.4.0/trunk/dev/FwMC_Security_Client/src/js/FwMC-Security.constantes.js",
+		"/C/data/Mobile/v2.4.0/trunk/dev/FwMC_Security_Client/src/js/FwMC-Security.internal.js",
+		"/C/data/Mobile/v2.4.0/trunk/dev/FwMC_Security_Client/test/scripts/FwMC-Security-test-scenario.js",
+		"/C/data/Mobile/v2.4.0/trunk/dev/FwMC_Security_Client/test/deps/FwMC-Security.js",
+		"/C/data/Mobile/v2.4.0/trunk/dev/FwMC_Security_Client/target/FwMC-Security.js",
+		"/C/data/Mobile/v2.4.0/trunk/dev/FwMC_Security_Client/src/js/FwMC-Security.js",
+		"/C/data/Mobile/v2.4.0/trunk/dev/FwMC_Security_Client/test/deps/FwMC-Security.browserify.private.js",
+		"/C/data/Mobile/v2.4.0/trunk/dev/FwMC_Security_Client/target/FwMC-Security.private.js",
+		"/C/data/Mobile/v2.4.0/trunk/dev/FwMC_Security_Client/Gruntfile.js",
+		"/C/Users/A105057/AppData/Roaming/Sublime Text 2/Packages/User/bh_core.sublime-settings",
+		"/C/Users/A105057/AppData/Roaming/Sublime Text 2/Packages/Grunt/SublimeGrunt.sublime-settings",
+		"/C/Users/A105057/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/A105057/AppData/Roaming/Sublime Text 2/Packages/JsFormat/Default (Windows).sublime-keymap",
+		"/C/Users/A105057/AppData/Roaming/Sublime Text 2/Packages/JsFormat/JsFormat.sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 140.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true
+}
